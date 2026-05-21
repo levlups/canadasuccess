@@ -139,3 +139,16 @@ footer {
   padding: 1rem 0;
   text-align: center;
 }
+
+.latest-auto {
+  margin-top: 2rem;
+  background: var(--surface);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  padding: 1.1rem 1.2rem;
+}
+
+.latest-auto a {
+  color: #b71c1c;
+  font-weight: 700;
+}
