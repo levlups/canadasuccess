@@ -2,6 +2,7 @@ A BLOG ABOUT CANADIAN SUCCESS
 
 ## Auto-generated Articles
 
+- [Weekly Canada Success Planning Update](articles/2026-05-24-0130-canada-update.md)
 - [Weekly Canada Success Planning Update](articles/2026-05-23-2328-canada-update.md)
 - [Weekly Canada Success Planning Update](articles/2026-05-23-2213-canada-update.md)
 - [Weekly Canada Success Planning Update](articles/2026-05-23-2114-canada-update.md)
